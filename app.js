@@ -1,6 +1,6 @@
 const darkButton = document.getElementById('dark');
 const lightButton = document.getElementById('light');
-const solarButton = document.getElementById('solar');
+const solarButton = document.getElementById('solarize');
 const body = document.body;
 
 // Event Handlers
